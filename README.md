@@ -21,7 +21,7 @@ PCA9685 is capable of harboring upto 16 servos.
 I am uploading following files:
 
 1. video of pick and place robotic arm in action.
-2. solid works cad files.
+// 2. solid works cad files.
 3. pick and place arduino code.
 4. serial control arduino code.
 
